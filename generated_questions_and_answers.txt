@@ -1,0 +1,43 @@
+text
+Answer: **True or False Questions**
+
+1. **True or False:** The Big Mac Index is a measure of the cost of living in different countries.
+   - **Answer:** False
+
+2. **True or False:** The Big Mac Index is based on the theory of purchasing power parity.
+   - **Answer:** True
+
+3. **True or False:** The Big Mac Index is a perfect measure of currency valuation.
+   - **Answer:** False
+
+**Multiple Choice Questions (MCQs)**
+
+1. **Which of the following is NOT a limitation of the Big Mac Index?**
+   - (a) Geographical coverage
+   - (b) Differences in social status
+   - (c) Currency exchange rates
+   - (d) Non-tradable goods and services
+
+2. **What is the purpose of the Big Mac Index?**
+   - (a) To measure inflation
+   - (b) To calculate implied exchange rates
+   - (c) To compare the quality of life in different countries
+   - (d) To predict future economic growth
+
+3. **Which of the following countries has the most expensive Big Mac?**
+   - (a) United States
+   - (b) Switzerland
+   - (c) Japan
+   - (d) India
+
+**One-Word Answers**
+
+1. **What is the name of the fast food chain used in the Big Mac Index?**
+   - **Answer:** McDonald's
+
+2. **What is the currency used as the base in the Big Mac Index?**
+   - **Answer:** US dollar
+
+3. **What is the name of the economic theory that underpins the Big Mac Index?**
+   - **Answer:** Purchasing power parity
+

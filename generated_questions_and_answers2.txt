@@ -1,0 +1,72 @@
+text
+Answer: **True or False Questions:**
+
+1. The Big Mac Index is a measure of the purchasing power of a single Big Mac.
+**True**
+
+2. The Big Mac Index is intended to be a legitimate tool for exchange rate evaluation.
+**False**
+
+3. The Big Mac Index is based on the theory of purchasing power parity (PPP).
+**True**
+
+4. The Big Mac Index is calculated by comparing the price of a Big Mac in a foreign country to the price of a Big Mac in the United States.
+**True**
+
+5. The Big Mac Index can be used to analyze a currency's level of under/over-valuation against a base currency.
+**True**
+
+**Multiple Choice Questions (MCQs):**
+
+1. Which of the following is NOT a limitation of the Big Mac Index?
+   (a) Geographical coverage
+   (b) Social status of eating at fast food restaurants
+   (c) The theoretical reason for PPPs being different from market exchange rates
+   (d) The price of a Big Mac reflecting local production and delivery costs
+   **Answer: (d)**
+
+2. Which of the following countries had one of the cheapest Big Macs in 2019?
+   (a) Switzerland
+   (b) Norway
+   (c) Russia
+   (d) Argentina
+   **Answer: (c)**
+
+3. Which of the following is a variant of the Big Mac Index that uses a cup of Starbucks coffee instead of a Big Mac?
+   (a) Tall Latte Index
+   (b) iPod Index
+   (c) Billy Index
+   (d) Gold-Mac-Index
+   **Answer: (a)**
+
+4. Which of the following is NOT a criticism of the Big Mac Index?
+   (a) It ignores shipping costs.
+   (b) It is based on a single product.
+   (c) It does not account for non-tradable goods and services.
+   (d) It is not widely cited by economists.
+   **Answer: (d)**
+
+5. Which of the following is a reason why the Big Mac Index may not be representative of a country's economy as a whole?
+   (a) The proportion of sales to expatriates
+   (b) Local taxes
+   (c) Levels of competition
+   (d) All of the above
+   **Answer: (d)**
+
+**One-Word Answers:**
+
+1. What is the name of the organization that publishes the Big Mac Index?
+**The Economist**
+
+2. What is the currency used as the base country in the Big Mac Index?
+**US dollar**
+
+3. What is the name of the theory that underpins the Big Mac Index?
+**PPP**
+
+4. What is the name of the sandwich that is used in the Big Mac Index?
+**Big Mac**
+
+5. What is the name of the index that measures the amount of time that an average local worker must work to earn enough to buy a Big Mac?
+**Big Mac Pay Gap Index**
+
